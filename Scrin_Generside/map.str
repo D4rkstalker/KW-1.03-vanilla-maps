@@ -1,0 +1,43 @@
+intro1
+"Commander, the Aliens are developing a new type of superweapon."
+end
+
+intro2
+"The superweapon is protected by these defenses."
+end
+
+intro3
+"The Aliens have tapped into these local power conduits to charge thier defenses."
+end
+
+intro4
+"These power plants are powering a forcefield protecting the superweapon."
+end
+
+ob1
+"Destroy the 4 control centers to eliminate powerflow to enemy base defenses!"
+end
+
+ob2
+"Defend Kane's honor & protect his statue against Scrin attack until Scrin defense is immobilized!"
+end
+
+ob3
+"Destroy all the Scrin power plants to disable the forcfield protecting the Scrin superweapon!"
+end
+
+ob4
+"Capture the Scrin superweapon for the glory of Kane!"
+end
+
+plantsremain
+"Scrin power plants remaining:"
+end
+
+powertime1
+"Scrin power remaining:"
+end
+
+consremain
+"Control Centers remaining:"
+end

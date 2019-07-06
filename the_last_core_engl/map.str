@@ -1,0 +1,67 @@
+cinematic_intro1
+  "Commander, our transport has been shot down during a cargo flight over Y101"
+End
+
+cinematic_intro2
+  "we suspect, that this had been a defensive reaction and wasn't a planned attack, cause the cargo was too insignificant"
+End
+
+cinematic_intro3
+  "Much more worrying is, that the AA rockets have been started from some kind of corebase and those had only been used by CABAL in the second tiberian war"
+End
+
+cinematic_intro4
+  "Commander, we are now receiving the last records of the transport, the rockets definitely came from a corebase "
+End
+
+cinematic_intro5
+  "You have to go in this zone immediatelly and you have to take out CABAl there before he is able to spread his influence"
+End
+
+cinematic_intro6
+  "Y-101 - Thursday, 9th of may 2041 - 04:30am"
+End
+
+intro1
+  "*Scoutflight Delta1 reports mutants at the running point*"
+End
+
+intro2
+  "*confirmed Delta1, sending Commando to clear the area*"
+End
+
+objective1
+  "Commander, destroy the core to stop CABAL"
+End
+
+objective2
+  "You have to expect a well defended core and because of the location the core is not attackable by ground forces"
+End
+
+bonusobjective_nuke1
+  "Commander, there is an old temple of nod in the region"
+End
+
+bonusobjective_nuke2
+  "take it to gain access to its nuclear weapons"
+End
+
+bonusobjective_mutant1
+  "Commander, if you take this mutant village you could get useful informations about the area"
+End
+
+bonusobjective_mutant2
+  "Commander, you can find 3 tiberium spikes near the village, take them to get more money for your operation"
+End
+
+bonusobjective_mutant3_1
+  "According to the reports of the mutants you will find the central coolingsystem for the CABAL core here"
+End
+
+bonusobjective_mutant3_2
+  "send your commando the the lower tunnel entrance to get on the plateau and then take out the controlsystem to temporally shut down the core's power"
+End
+
+timer_coolingsystem
+  "CABAL core defense system offline"
+End

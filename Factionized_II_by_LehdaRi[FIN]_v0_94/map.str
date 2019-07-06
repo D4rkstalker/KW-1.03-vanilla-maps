@@ -1,0 +1,31 @@
+INTRO_01
+"Welcome to the Factionized II! (v0.94)"
+End
+
+INTRO_02
+"In this map you may choose one extra faction."
+End
+
+INTRO_03
+"Just capture the construction yard of the faction you'd like to have."
+End
+
+INTRO_04
+"But you don't have to pick extra faction -"
+End
+
+INTRO_05
+"if you prefer to play only with one faction, just let your engineer be and we'll give you extra 5000 money when the game starts."
+End
+
+INTRO_06
+"GAME ON!"
+End
+
+INTRO_07
+"Have fun, map made by LehdaRi[FIN]"
+End
+
+TIMER_GAMESTART
+"Game starts in"
+End

@@ -1,0 +1,19 @@
+intro
+"Zocom has surrounded us. With no resources left and our base is in peril, we are in deep trouble. Our desperate measure to win this over is now up to you, commander. Zocom will be sending not only airstrikes but also gun us down with the ion cannon if we don't do something fast."
+END
+
+alert
+"Now that we destroyed the Zocom base, a Scrin Eradicator was sent out to destroy us out of nowhere. Eliminate that epic unit!"
+END
+
+defending
+"Good job eliminating the eradicator. The bad news is that Scrin has detected us after that epic unit was destroyed. Defend the base for 5 minutes and you will secure this sector."
+END
+
+defend base
+"Defend the base: "
+END
+
+ending
+"Congratuations! You have successfully came back from behind and defended the base."
+END

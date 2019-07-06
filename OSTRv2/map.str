@@ -1,0 +1,23 @@
+MapIntro:01
+"Incoming message from General Granger."
+End
+
+MapIntro:02
+"Commander, one of our top sciencists have been captured. You are in charge of 17th Mechanised Division. You will also be command of some of our other units from different companys. Use the wisely. Your mission is to capture the Redeemer Engineering Faclity in the Black Hand base then head over to CABAL II's base and make waste of these scum. Beware, The scrin are in the area so if you could, destory the drone platform so the scrin in the area will be useless."
+End
+
+MapIntro:03
+"Good luck, Commander."
+End
+
+objective 1
+"Objective 1: Capture The Redeemer Engineering Bay. Then After that, Protect it for the rest of the mission."
+End
+
+objective 2
+"Objective 1 finished. Objective 2: Destory the Scrin Base before they overrun us. We are giving you a ZOCOM base with some of the units from there division. The MCVs in the area are broken so If you lose this base, you are SOL, Commander. We are Also gave you some of the plans to some units. Ion cannon is ready to be built. Use it wisely."
+End
+
+objective 3
+  "Objective 1 finished. Objective 3: Destory CABAL II's base before he can call in more reinforcements. We are granting you the MARV and Mammoth Tanks for this part."
+End

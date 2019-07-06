@@ -1,0 +1,1 @@
+Kane's Wrath True Awakening is a 2 player co-op map for Kane's Wrath.

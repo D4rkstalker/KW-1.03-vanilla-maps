@@ -1,0 +1,103 @@
+MapObjective1
+"Objective 1: Capture the liquid tiberium research facility."
+END
+
+MapObjective1D
+"Lab captured, Primary objective completed."
+END
+
+MapObjective2
+"Objective 2: Escort the transport carrying the information to the evac zone."
+END
+
+MapObjective2D
+"Thanks to you Commander, we can soon develop something to counter those alien invaders."
+END
+
+MapDefeat
+"You have let us down Commander, how can we now fight back the aliens?"
+END
+
+MapIntro01
+"Commander, this is the area where Kane's temple Prime was located"
+END
+
+MapIntro02
+"Now it is heavily infestated with tiberium, and only mutants and some Visceroids can live here"
+END
+
+MapIntro03
+"However, one of Nod's liquid tiberium research facilities survived the explosion."
+END
+
+MapIntro04
+"Director Boyle has assigned you to this top-secret mission to recover all information still left about the liquid-t bomb."
+END
+
+MapIntro05
+"Your forces arrives in 10 seconds, good luck Commander."
+END
+
+MapIntro06
+"Ox Pilot: "Mutants! They are shooting at us!""
+END
+
+MapIntro07
+"We can't send reinforces because of nearby ion storms, you have to manage with the things you have."
+END
+
+MapIntro08
+"Engineer: "Look, there's a Juggernaut husk, maybe I can take it?""
+END
+
+MapIntro09
+"Be careful, these cliffs aren't very stable!"
+END
+
+MapIntro10
+"Commando: "Visceroids, I hate Visceroids!""
+END
+
+MapIntro11
+"WARNING - alien patrol detected!"
+END
+
+MapIntro12
+"Some Nod defences still exist, maybe you could take advantage of them somehow"
+END
+
+MapIntro13
+"Bonus objective: Capture the Nod power plant to activate the base defences."
+END
+
+MapIntro14
+"Bonus Objective completed. Base defences are powered."
+END
+
+MapIntro15
+"Mutant: Let's kill the outsiders!"
+END
+
+MapIntro16
+"Mutant: Intruders! CHARGEEEEE!!!"
+END
+
+MapIntro17
+"You have to get out of there fast, ion storm is arriving!"
+END
+
+MapIntro18
+"Commando killed, chances to success are low."
+END
+
+MapIntro19
+"Juggernaut lost, chances to success are minimal."
+END
+
+MapIntro20
+"Everyone, come to protect our homes!"
+END
+
+MapIntro21
+"Hurry Commander, the storm isn't waiting for you to get out of the way!"
+END

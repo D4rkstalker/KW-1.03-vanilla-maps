@@ -1,0 +1,30 @@
+Install--
+
+Hello, thanks for downloading my map Abandoned Rail. 
+
+To install; follow these directions!
+
+Put the Abandoned Rail Folder in your-                                *=Special Note
+
+My Computer-->C Drive(may be different for some) --> Documents and Settings --> User name(Example: Nick(For Me)) --> Application Data*--> Command & Conquer 3 Tiberium Wars---> Maps
+
+
+Application Data is a "Hidden File". To make it viewable,; go to my computer, then near the top go to tools, then to folder options. From here, go the the View tab, and select the "Show Hidden Files and Folders" icon.
+
+
+
+Another note!
+
+Are you tired of having hidden files being showed?
+
+Theres and easy fix for this, once you can see Application Data, right click it and go to properties, then unclick the hidden box. (Make it show all subfolders also, it will ask you.) Now, go back, and go to view and dont show hidden folders. Application data and all of its subfolders are now considered a normal file!
+
+
+
+
+
+
+
+Made by Nick F. (AKA BrokenMonkey/Bloodwormking) 
+
+Feel Free to share with people!  Don't change the map please!

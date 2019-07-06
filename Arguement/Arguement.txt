@@ -1,0 +1,38 @@
+Arguement Map Readme
+
+Players: 4
+
+Description: Arguement is a 4-player map with a large tiberium deposit in the middle of the map in the shape of a circle. In the darkened areas to the left and right of the map are tiberium spikes, 2 for each side, 4 in total. There are many buildings around the center circle to garrison troops to harrass passing harvesters. Each side has ample building space and tiberium resources.
+
+Build Time: About 3 hours
+
+Author: N88TR
+
+Contact Informations: N88TR [at] N88TR [dot] net
+
+Website: http://n88tr.net/cnc3files
+
+Installing: Quick Instructions:
+
+In the map zip file, there should be a folder which is called whatever the map is named. Extract that folder to your C&C3 maps directory.
+
+To Find Your Map Folder:
+
+Your maps directory (in XP) is here:
+C:\Documents and Settings\Username\Application Data\Command & Conquer 3 Tiberium Wars\Maps
+Where 'Username' is whatever your account is called.
+
+Now the problem most people run into is that the Application Data folder is hidden by default. So to find it, you have to Show Hidden Files and Folders. To do that, you must open My Computer, Click Tools -> Folder Options -> View -> Select "Show hidden files and folders". Then browse to your Username directory, and you should be able to see the Application Data directory.
+
+Your maps directory (in Vista) is here:
+C:\Users\Username\AppData\Roaming\Command & Conquer 3 Tiberium Wars\Maps
+Where 'Username' is whatever your account is called.
+
+In case the AppData folder is hidden, you can go to the Start Search box and type Folder Options, and open it. Click Folder Options -> View -> Select "Show hidden files and folders". It should now be unhidden!
+
+Take your downloaded map folder and put it in the Maps directory. Your map should now appear in the C&C3 maps list along with the official maps.
+
+Permissions: You can use this map in your modification or even a level pack but YOU MUST keep this readme and the files inside the map folder unchanged. My name, N88TR, must be displayed as the author when giving credit. Email me for any other questions.
+
+
+Thank you.
