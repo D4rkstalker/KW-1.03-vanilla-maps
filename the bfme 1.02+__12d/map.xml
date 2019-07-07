@@ -134,10 +134,7 @@
 			source="DATA:neutral/props/audioambients.xml"
 			type="instance"/>
 		<Include
-			source="DATA:neutral/structures/captureflag.xml"
-			type="instance"/>
-		<Include
-			source="DATA:neutral/structures/controlpoint.xml"
+			source="DATA:neutral/structures/cdmtower.xml"
 			type="instance"/>
 		<Include
 			source="DATA:neutral/structures/mutanthovel.xml"
@@ -149,6 +146,9 @@
 			source="DATA:neutral/structures/subwaynode.xml"
 			type="instance"/>
 		<Include
+			source="DATA:neutral/structures/tiberiumspike.xml"
+			type="instance"/>
+		<Include
 			source="DATA:sounds/musicscript_yellowzone.xml"
 			type="instance"/>
 		<Include
@@ -156,7 +156,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="thebfme1">
+		id="thebfme1.02__12d">
 		<Waypoint
 			id="07_Defenses">
 			<Position
@@ -1091,6 +1091,71 @@
 		<Structure
 			Angle="0"
 			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="100"
+			Team="Plyrfactionneutral"
+			ThingTemplate="TiberiumSpike"
+			id="TiberiumSpike">
+			<Position
+				x="2500"
+				y="4090"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="100"
+			Team="Plyrfactionneutral"
+			ThingTemplate="TiberiumSpike"
+			id="TiberiumSpike">
+			<Position
+				x="4190"
+				y="2490"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="100"
+			Team="Plyrfactionneutral"
+			ThingTemplate="TiberiumSpike"
+			id="TiberiumSpike">
+			<Position
+				x="2520"
+				y="890"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="100"
+			Team="Plyrfactionneutral"
+			ThingTemplate="TiberiumSpike"
+			id="TiberiumSpike">
+			<Position
+				x="780"
+				y="2500"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="25"
+			Team="Plyrfactionneutral"
+			ThingTemplate="CDMTower"
+			id="CDMTower">
+			<Position
+				x="2530"
+				y="2390"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
 			Faction="Plyrfactioncivilian/teamPlyrfactioncivilian"
 			Health="100"
 			Team="Plyrfactioncivilian"
@@ -1229,97 +1294,6 @@
 			<Position
 				x="2600.58"
 				y="2801.9"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.51189"
-			EventList=""
-			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
-			Health="100"
-			Team="Plyrfactionneutral"
-			ThingTemplate="CaptureFlag"
-			id="CaptureFlag">
-			<Position
-				x="2534.21"
-				y="2361.09"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
-			Health="100"
-			Team="Plyrfactionneutral"
-			ThingTemplate="ControlPoint"
-			id="ControlPoint">
-			<Position
-				x="2534.21"
-				y="2361.09"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
-			Health="100"
-			Team="Plyrfactionneutral"
-			ThingTemplate="ControlPoint"
-			id="ControlPoint">
-			<Position
-				x="4640"
-				y="2480"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.49664"
-			EventList=""
-			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
-			Health="100"
-			Team="Plyrfactionneutral"
-			ThingTemplate="ControlPoint"
-			id="ControlPoint">
-			<Position
-				x="2490"
-				y="4550"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
-			Health="100"
-			Team="Plyrfactionneutral"
-			ThingTemplate="ControlPoint"
-			id="ControlPoint">
-			<Position
-				x="350"
-				y="2490"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.63773"
-			EventList=""
-			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
-			Health="100"
-			Team="Plyrfactionneutral"
-			ThingTemplate="ControlPoint"
-			id="ControlPoint">
-			<Position
-				x="2520"
-				y="420"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="3.08209"
-			EventList=""
-			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
-			Health="100"
-			Team="Plyrfactionneutral"
-			ThingTemplate="ControlPoint"
-			id="ControlPoint">
-			<Position
-				x="2534.21"
-				y="2361.09"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -2258,6 +2232,58 @@
 				y="2527.76"
 				z="0"/>
 		</Unit>
+		<Prop
+			Angle="0"
+			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="100"
+			Team="Plyrfactionneutral"
+			ThingTemplate="TiberiumField"
+			id="TiberiumField">
+			<Position
+				x="2500"
+				y="4570"
+				z="0"/>
+		</Prop>
+		<Prop
+			Angle="0"
+			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="100"
+			Team="Plyrfactionneutral"
+			ThingTemplate="TiberiumField"
+			id="TiberiumField">
+			<Position
+				x="4620"
+				y="2490"
+				z="0"/>
+		</Prop>
+		<Prop
+			Angle="0"
+			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="100"
+			Team="Plyrfactionneutral"
+			ThingTemplate="TiberiumField"
+			id="TiberiumField">
+			<Position
+				x="2510"
+				y="400"
+				z="0"/>
+		</Prop>
+		<Prop
+			Angle="0"
+			EventList=""
+			Faction="Plyrfactionneutral/teamPlyrfactionneutral"
+			Health="100"
+			Team="Plyrfactionneutral"
+			ThingTemplate="TiberiumField"
+			id="TiberiumField">
+			<Position
+				x="370"
+				y="2500"
+				z="0"/>
+		</Prop>
 		<Prop
 			Angle="0"
 			EventList=""
@@ -48280,10 +48306,10 @@
 			CRC="0"
 			Description="Map:thebfme1/Desc"
 			DisplayName="BFME"
-			FileName="Data\maps\official\the bfme 1.02+ edition\the bfme 1.02+ edition.map"
+			FileName="Data"
 			Height="560"
 			IsMultiplayer="true"
-			IsOfficial="true"
+			IsOfficial="false"
 			NumPlayers="4"
 			Width="560">
 			<StartPosition
@@ -48342,15 +48368,15 @@
 			<IntProperty
 				Key="weather"
 				Value="0"/>
-			<IntProperty
-				Key="compression"
-				Value="1"/>
 			<StringProperty
 				Key="mapName"
 				Value="BFME"/>
 			<StringProperty
 				Key="mapDescription"
 				Value=""/>
+			<IntProperty
+				Key="compression"
+				Value="1"/>
 			<RealProperty
 				Key="cameraGroundMinHeight"
 				Value="0"/>
@@ -48367,7 +48393,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="thebfme1">
+		id="thebfme1.02__12d">
 		<Tile
 			BaseTexture="ART:Terrain/TRock_Rubble01.tga"
 			NormalTexture="ART:Terrain/TRock_Rubble01_nrm.tga"
@@ -48610,23 +48636,183 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Player_1">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_2">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_3">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_4">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Skirmish">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="SkirmishNull">

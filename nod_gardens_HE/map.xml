@@ -104,10 +104,10 @@
 			source="DATA:neutral/props/yellowzoneskya.xml"
 			type="instance"/>
 		<Include
-			source="DATA:neutral/structures/civbunker.xml"
+			source="DATA:neutral/structures/cdmtower.xml"
 			type="instance"/>
 		<Include
-			source="DATA:neutral/structures/mutanthovel.xml"
+			source="DATA:neutral/structures/civbunker.xml"
 			type="instance"/>
 		<Include
 			source="DATA:neutral/structures/tiberiumspike.xml"
@@ -144,7 +144,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="nodgardens1.02edition">
+		id="nod_gardens_HE_">
 		<Waypoint
 			id="Player_7_Start">
 			<Position
@@ -207,8 +207,8 @@
 			Faction="SkirmishNeutral/teamSkirmishNeutral"
 			Health="100"
 			Team="SkirmishNeutral"
-			ThingTemplate="MutantHovel"
-			id="MutantHovel">
+			ThingTemplate="CDMTower"
+			id="CDMTower">
 			<Position
 				x="2750"
 				y="2760"
@@ -18748,8 +18748,8 @@
 			ThingTemplate="ITRocks01"
 			id="ITRocks01">
 			<Position
-				x="2275.73"
-				y="3263.18"
+				x="2860"
+				y="1240"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -19632,8 +19632,8 @@
 			ThingTemplate="ITRocks01"
 			id="ITRocks01">
 			<Position
-				x="1320"
-				y="1840"
+				x="1575.61"
+				y="1981.39"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -25438,8 +25438,8 @@
 			ThingTemplate="AmbStream_RedZone03_Rubble_5point1"
 			id="AmbStream_RedZone03_Rubble_5point1">
 			<Position
-				x="2790"
-				y="2780"
+				x="2753.93"
+				y="2755.37"
 				z="0"/>
 		</Audio>
 		<Unknown
@@ -25467,8 +25467,8 @@
 		<MapMetaData
 			BorderSize="10"
 			CRC="0"
-			Description="Map:nodgardens1/Desc"
-			DisplayName="NODs Gardens (Final.v3)"
+			Description="Map:nod_gardens_HE/Desc"
+			DisplayName="NODs Gardens"
 			FileName="Data"
 			Height="570"
 			IsMultiplayer="true"
@@ -25561,7 +25561,7 @@
 				Value="1"/>
 			<StringProperty
 				Key="mapName"
-				Value="NODs Gardens (Final.v3)"/>
+				Value="NODs Gardens"/>
 			<StringProperty
 				Key="mapDescription"
 				Value="Made by Predatore - 2013."/>
@@ -25584,7 +25584,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="nodgardens1.02edition">
+		id="nod_gardens_HE_">
 		<Tile
 			BaseTexture="ART:Terrain/TDirt_RedZone19.tga"
 			NormalTexture="ART:Terrain/TDirt_RedZone19_nrm.tga"
