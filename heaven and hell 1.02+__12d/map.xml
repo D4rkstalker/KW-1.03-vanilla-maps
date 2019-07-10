@@ -240,7 +240,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="heavenandhell1">
+		id="heavenandhell1.02__12d">
 		<Waypoint
 			id="07_Defenses">
 			<Position
@@ -2905,6 +2905,19 @@
 				y="650.492"
 				z="0"/>
 		</Structure>
+		<Unit
+			Angle="-0.785398"
+			EventList=""
+			Faction="SkirmishNeutral/teamSkirmishNeutral"
+			Health="25"
+			Team="SkirmishNeutral"
+			ThingTemplate="NODEmissary"
+			id="NODEmissary">
+			<Position
+				x="2940"
+				y="3030"
+				z="0"/>
+		</Unit>
 		<Prop
 			Angle="1.94089"
 			EventList=""
@@ -32452,10 +32465,10 @@
 			CRC="0"
 			Description="Map:heavenandhell1/Desc"
 			DisplayName="heavenandhell1"
-			FileName="Data\maps\official\heaven and hell 1.02+ edition\heaven and hell 1.02+ edition.map"
+			FileName="Data"
 			Height="740"
 			IsMultiplayer="true"
-			IsOfficial="true"
+			IsOfficial="false"
 			NumPlayers="4"
 			Width="740">
 			<StartPosition
@@ -32534,7 +32547,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="heavenandhell1">
+		id="heavenandhell1.02__12d">
 		<Tile
 			BaseTexture="ART:Terrain/TDirt_RedZone19.tga"
 			NormalTexture="ART:Terrain/TDirt_RedZone19_nrm.tga"
@@ -32706,7 +32719,39 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Skirmish">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="SkirmishNull">
@@ -32766,18 +32811,146 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Player_1">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_2">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_3">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_4">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 </AssetDeclaration>
