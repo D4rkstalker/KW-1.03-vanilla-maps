@@ -462,7 +462,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="darkwaters1">
+		id="darkwaters1.02__12d">
 		<Waypoint
 			id="Player_6_Start">
 			<Position
@@ -505,6 +505,58 @@
 				y="754.08"
 				z="0"/>
 		</Waypoint>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="TiberiumSpike"
+			id="TiberiumSpike">
+			<Position
+				x="1020"
+				y="5040"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="TiberiumSpike"
+			id="TiberiumSpike">
+			<Position
+				x="5210"
+				y="5160"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="TiberiumSpike"
+			id="TiberiumSpike">
+			<Position
+				x="5490"
+				y="2980"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="TiberiumSpike"
+			id="TiberiumSpike">
+			<Position
+				x="610"
+				y="2870"
+				z="0"/>
+		</Structure>
 		<Structure
 			Angle="-0.774009"
 			EventList=""
@@ -3274,6 +3326,45 @@
 				y="906.972"
 				z="0"/>
 		</Structure>
+		<Unit
+			Angle="-0.785398"
+			EventList=""
+			Faction="SkirmishMarkedOfKane/teamSkirmishMarkedOfKane"
+			Health="25"
+			Team="SkirmishMarkedOfKane"
+			ThingTemplate="MarkedOfKaneEmissary"
+			id="MarkedOfKaneEmissary">
+			<Position
+				x="3110"
+				y="3620"
+				z="0"/>
+		</Unit>
+		<Prop
+			Angle="0"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="TiberiumFieldBlue"
+			id="TiberiumFieldBlue">
+			<Position
+				x="1300"
+				y="2500"
+				z="0"/>
+		</Prop>
+		<Prop
+			Angle="0"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="TiberiumFieldBlue"
+			id="TiberiumFieldBlue">
+			<Position
+				x="4820"
+				y="2430"
+				z="0"/>
+		</Prop>
 		<Prop
 			Angle="-0.566076"
 			EventList=""
@@ -30923,10 +31014,10 @@
 			CRC="0"
 			Description="Map:darkwaters1/Desc"
 			DisplayName="darkwaters1"
-			FileName="Data\maps\official\dark waters 1.02+ edition\dark waters 1.02+ edition.map"
+			FileName="Data"
 			Height="710"
 			IsMultiplayer="true"
-			IsOfficial="true"
+			IsOfficial="false"
 			NumPlayers="6"
 			Width="660">
 			<StartPosition
@@ -31022,7 +31113,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="darkwaters1">
+		id="darkwaters1.02__12d">
 		<Tile
 			BaseTexture="ART:Terrain/TDirt_NCarolina03.tga"
 			NormalTexture="ART:Terrain/TDirt_NCarolina03_nrm.tga"
@@ -31226,7 +31317,39 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Skirmish">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="SkirmishObserver">
@@ -31246,19 +31369,147 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Player_1">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_2">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_3">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_4">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_5">
