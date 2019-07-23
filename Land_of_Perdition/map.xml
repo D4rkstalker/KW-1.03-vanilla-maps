@@ -29,12 +29,6 @@
 			source="DATA:civilian/australia_as/buildings/asbarn02.xml"
 			type="instance"/>
 		<Include
-			source="DATA:civilian/australia_as/buildings/asbwse01.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/australia_as/props/aspcrate03.xml"
-			type="instance"/>
-		<Include
 			source="DATA:civilian/australia_as/rocks/asrrocks01.xml"
 			type="instance"/>
 		<Include
@@ -161,9 +155,6 @@
 			source="DATA:civilian/germany_gr/props/grpwall04.xml"
 			type="instance"/>
 		<Include
-			source="DATA:civilian/goddard_space_center_go/buildings/gobldg01.xml"
-			type="instance"/>
-		<Include
 			source="DATA:civilian/italy_it/props/itpbarr01.xml"
 			type="instance"/>
 		<Include
@@ -215,9 +206,6 @@
 			source="DATA:civilian/north_carolina_badlands_nc/buildings/ncbwse01.xml"
 			type="instance"/>
 		<Include
-			source="DATA:civilian/north_carolina_badlands_nc/buildings/ncbwse02.xml"
-			type="instance"/>
-		<Include
 			source="DATA:civilian/props/egypt/pmegysupplies10.xml"
 			type="instance"/>
 		<Include
@@ -266,9 +254,6 @@
 			source="DATA:civilian/props/egypt/pmiscegysupp02.xml"
 			type="instance"/>
 		<Include
-			source="DATA:civilian/props/egypt/pmiscegysupp03.xml"
-			type="instance"/>
-		<Include
 			source="DATA:civilian/props/egypt/pmiscegysupp04.xml"
 			type="instance"/>
 		<Include
@@ -314,19 +299,10 @@
 			source="DATA:civilian/washington_dc_dc/buildings/dcbburn02.xml"
 			type="instance"/>
 		<Include
-			source="DATA:civilian/washington_dc_dc/buildings/dcbcargo01.xml"
-			type="instance"/>
-		<Include
 			source="DATA:civilian/washington_dc_dc/buildings/dcbcargo02.xml"
 			type="instance"/>
 		<Include
 			source="DATA:civilian/washington_dc_dc/buildings/dcbcargo03.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/buildings/dcbcargo04.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/buildings/dcbcargo05.xml"
 			type="instance"/>
 		<Include
 			source="DATA:civilian/washington_dc_dc/buildings/dcbcargo06.xml"
@@ -365,21 +341,6 @@
 			source="DATA:civilian/washington_dc_dc/buildings/dcbwse02.xml"
 			type="instance"/>
 		<Include
-			source="DATA:civilian/washington_dc_dc/props/dcpauto01.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/props/dcpauto02.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/props/dcpauto05.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/props/dcpauto06.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/props/dcpauto08.xml"
-			type="instance"/>
-		<Include
 			source="DATA:civilian/washington_dc_dc/props/dcpdumpster01.xml"
 			type="instance"/>
 		<Include
@@ -390,12 +351,6 @@
 			type="instance"/>
 		<Include
 			source="DATA:civilian/washington_dc_dc/props/dcpgate01.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/props/dcpplanter01.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/props/dcppylon01.xml"
 			type="instance"/>
 		<Include
 			source="DATA:civilian/washington_dc_dc/props/dcpstrli06.xml"
@@ -414,9 +369,6 @@
 			type="instance"/>
 		<Include
 			source="DATA:civilian/washington_dc_dc/props/dcpsupply03.xml"
-			type="instance"/>
-		<Include
-			source="DATA:civilian/washington_dc_dc/props/dcptarmac04.xml"
 			type="instance"/>
 		<Include
 			source="DATA:neutral/destructables/explodingbarrel.xml"
@@ -800,19 +752,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="-0.592453"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply03"
-			id="DCPSUPPLY03">
-			<Position
-				x="3980.79"
-				y="3647.61"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="0.42878"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -904,19 +843,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="-0.064108"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply02"
-			id="DCPSUPPLY02">
-			<Position
-				x="4156.97"
-				y="3452.42"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="1.45929"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -969,45 +895,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply02"
-			id="DCPSUPPLY02">
-			<Position
-				x="3450.52"
-				y="3835.83"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply01"
-			id="DCPSUPPLY01">
-			<Position
-				x="3342.71"
-				y="3834.96"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply01"
-			id="DCPSUPPLY01">
-			<Position
-				x="3364.93"
-				y="3836.35"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="2.98686"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -1047,32 +934,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="1.61966"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply02"
-			id="DCPSUPPLY02">
-			<Position
-				x="3694.41"
-				y="3683.59"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.537"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo04"
-			id="DCBCARGO04">
-			<Position
-				x="6623.31"
-				y="4012.15"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="-0.0882455"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -1109,19 +970,6 @@
 			<Position
 				x="7202.95"
 				y="4151.8"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-1.19963"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply02"
-			id="DCPSUPPLY02">
-			<Position
-				x="6465.69"
-				y="3428.66"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -1174,19 +1022,6 @@
 			<Position
 				x="6995.93"
 				y="2638.24"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.295862"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply03"
-			id="DCPSUPPLY03">
-			<Position
-				x="6623.94"
-				y="3373.38"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -1252,32 +1087,6 @@
 			<Position
 				x="7076.22"
 				y="4305.09"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPSupply01"
-			id="DCPSUPPLY01">
-			<Position
-				x="6616.55"
-				y="3608.54"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo08"
-			id="DCBCARGO08">
-			<Position
-				x="6623.43"
-				y="3521.25"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -1447,32 +1256,6 @@
 			<Position
 				x="3964.96"
 				y="4251.17"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="3.05349"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo04"
-			id="DCBCARGO04">
-			<Position
-				x="3783.73"
-				y="3819.49"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.293281"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo03"
-			id="DCBCARGO03">
-			<Position
-				x="3351.31"
-				y="4138.81"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -3322,19 +3105,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="-0.16434"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo03"
-			id="DCBCARGO03">
-			<Position
-				x="6620"
-				y="3120"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="3.14159"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -3688,32 +3458,6 @@
 		<Structure
 			Angle="-1.5708"
 			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Australian_Warehouse_01"
-			id="Australian_Warehouse_01">
-			<Position
-				x="6490"
-				y="3870"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Australian_Warehouse_01"
-			id="Australian_Warehouse_01">
-			<Position
-				x="6490"
-				y="4040"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-1.5708"
-			EventList=""
 			Faction="PlyrNeutral/teamPlyrNeutral"
 			Health="100"
 			Team="PlyrNeutral"
@@ -3788,58 +3532,6 @@
 				x="6810"
 				y="4560"
 				z="-2"/>
-		</Structure>
-		<Structure
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Australian_Warehouse_01"
-			id="Australian_Warehouse_01">
-			<Position
-				x="6490"
-				y="3520"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Australian_Warehouse_01"
-			id="Australian_Warehouse_01">
-			<Position
-				x="6490"
-				y="3690"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Australian_Warehouse_01"
-			id="Australian_Warehouse_01">
-			<Position
-				x="6490"
-				y="3170"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Australian_Warehouse_01"
-			id="Australian_Warehouse_01">
-			<Position
-				x="6490"
-				y="3340"
-				z="0"/>
 		</Structure>
 		<Structure
 			Angle="0"
@@ -3998,19 +3690,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="-0.315667"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo09"
-			id="DCBCARGO09">
-			<Position
-				x="3410"
-				y="3830"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="1.47701"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -4021,45 +3700,6 @@
 			<Position
 				x="3870"
 				y="4250"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.0566314"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo08"
-			id="DCBCARGO08">
-			<Position
-				x="3680"
-				y="3820"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.164035"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo01"
-			id="DCBCARGO01">
-			<Position
-				x="3790"
-				y="4140"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBCargo05"
-			id="DCBCARGO05">
-			<Position
-				x="3690"
-				y="4140"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -4307,45 +3947,6 @@
 			<Position
 				x="2140"
 				y="3940"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="North_Carolina_Warehouse_02"
-			id="North_Carolina_Warehouse_02">
-			<Position
-				x="3670"
-				y="4050"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="North_Carolina_Warehouse_02"
-			id="North_Carolina_Warehouse_02">
-			<Position
-				x="3790"
-				y="4050"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="North_Carolina_Warehouse_02"
-			id="North_Carolina_Warehouse_02">
-			<Position
-				x="3790"
-				y="3920"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -4882,201 +4483,6 @@
 				z="-2"/>
 		</Structure>
 		<Structure
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="2220"
-				y="3570"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="2340"
-				y="3570"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="2460"
-				y="3570"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="2580"
-				y="3570"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="2220"
-				y="3930"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="2340"
-				y="3930"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="2460"
-				y="3930"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="2580"
-				y="3930"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBarri01"
-			id="DCBBarri01">
-			<Position
-				x="4150"
-				y="4160"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBarri01"
-			id="DCBBarri01">
-			<Position
-				x="4120"
-				y="4160"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBarri01"
-			id="DCBBarri01">
-			<Position
-				x="4090"
-				y="4160"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBarri01"
-			id="DCBBarri01">
-			<Position
-				x="4050"
-				y="4160"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBarri01"
-			id="DCBBarri01">
-			<Position
-				x="4020"
-				y="4160"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBarri01"
-			id="DCBBarri01">
-			<Position
-				x="3990"
-				y="4160"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="North_Carolina_Warehouse_02"
-			id="North_Carolina_Warehouse_02">
-			<Position
-				x="3670"
-				y="3920"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="1.5708"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -5103,32 +4509,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="North_Carolina_Warehouse_01"
-			id="North_Carolina_Warehouse_01">
-			<Position
-				x="3390"
-				y="4070"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Goddard_Space_Center_Building_01"
-			id="Goddard_Space_Center_Building_01">
-			<Position
-				x="4070"
-				y="3870"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="-1.5708"
 			EventList=""
 			Faction="PlyrNeutral/teamPlyrNeutral"
@@ -5160,89 +4540,11 @@
 			Faction="PlyrCivilian/teamPlyrCivilian"
 			Health="100"
 			Team="PlyrCivilian"
-			ThingTemplate="North_Carolina_Warehouse_01"
-			id="North_Carolina_Warehouse_01">
-			<Position
-				x="3390"
-				y="3990"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="3730"
-				y="3620"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="3730"
-				y="3500"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="3730"
-				y="3380"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Australian_Warehouse_01"
-			id="Australian_Warehouse_01">
-			<Position
-				x="4070"
-				y="3410"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
 			ThingTemplate="North_Carolina_Factory_01"
 			id="North_Carolina_Factory_01">
 			<Position
 				x="3470"
 				y="3240"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="North_Carolina_Warehouse_01"
-			id="North_Carolina_Warehouse_01">
-			<Position
-				x="3390"
-				y="3910"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -5259,32 +4561,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="Australian_Warehouse_01"
-			id="Australian_Warehouse_01">
-			<Position
-				x="4070"
-				y="3610"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="3390"
-				y="3620"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="3.14159"
 			EventList=""
 			Faction="PlyrNeutral/teamPlyrNeutral"
@@ -5296,19 +4572,6 @@
 				x="3280"
 				y="3240"
 				z="-2"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="3390"
-				y="3500"
-				z="0"/>
 		</Structure>
 		<Structure
 			Angle="0"
@@ -5348,19 +4611,6 @@
 				x="4180"
 				y="4260"
 				z="-2"/>
-		</Structure>
-		<Structure
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCBBun02"
-			id="DCBBUN02">
-			<Position
-				x="3390"
-				y="3380"
-				z="0"/>
 		</Structure>
 		<Structure
 			Angle="3.14159"
@@ -5584,6 +4834,19 @@
 				z="0"/>
 		</Structure>
 		<Unit
+			Angle="-0.785398"
+			EventList=""
+			Faction="SkirmishMarkedOfKane/teamSkirmishMarkedOfKane"
+			Health="25"
+			Team="SkirmishMarkedOfKane"
+			ThingTemplate="MarkedOfKaneEmissary"
+			id="MarkedOfKaneEmissary">
+			<Position
+				x="3820"
+				y="3730"
+				z="0"/>
+		</Unit>
+		<Unit
 			Angle="1.5708"
 			EventList=""
 			Faction="PlyrNeutral/teamPlyrNeutral"
@@ -5594,32 +4857,6 @@
 			<Position
 				x="6750.76"
 				y="2656.27"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="LiquidTiberiumTransport"
-			id="LiquidTiberiumTransport">
-			<Position
-				x="2219.69"
-				y="3901.5"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="LiquidTiberiumTransport"
-			id="LiquidTiberiumTransport">
-			<Position
-				x="2459.52"
-				y="3609.99"
 				z="0"/>
 		</Unit>
 		<Unit
@@ -5662,19 +4899,6 @@
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="-2.07516"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="CivilianTransport"
-			id="CivilianTransport">
-			<Position
-				x="3578.66"
-				y="4160.09"
-				z="0"/>
-		</Unit>
-		<Unit
 			Angle="3.14159"
 			EventList=""
 			Faction="PlyrNeutral/teamPlyrNeutral"
@@ -5700,43 +4924,17 @@
 				y="2996.45"
 				z="0"/>
 		</Unit>
-		<Unit
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="CivilianTransport"
-			id="CivilianTransport">
-			<Position
-				x="3756.12"
-				y="3775.13"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="NukeTransport"
-			id="NukeTransport">
-			<Position
-				x="2915.38"
-				y="3722.63"
-				z="0"/>
-		</Unit>
 		<Prop
 			Angle="0"
 			EventList=""
 			Faction="PlyrNeutral/teamPlyrNeutral"
 			Health="100"
 			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
+			ThingTemplate="TiberiumFieldBlue"
+			id="TiberiumFieldBlue">
 			<Position
-				x="3680"
-				y="3600"
+				x="6540"
+				y="3740"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -5745,11 +4943,11 @@
 			Faction="PlyrNeutral/teamPlyrNeutral"
 			Health="100"
 			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
+			ThingTemplate="TiberiumField"
+			id="TiberiumField">
 			<Position
-				x="3680"
-				y="3600"
+				x="3740"
+				y="3720"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -5758,24 +4956,11 @@
 			Faction="PlyrNeutral/teamPlyrNeutral"
 			Health="100"
 			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
+			ThingTemplate="TiberiumFieldBlue"
+			id="TiberiumFieldBlue">
 			<Position
-				x="3680"
-				y="3600"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="3680"
-				y="3600"
+				x="2410"
+				y="3750"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -13782,45 +12967,6 @@
 			ThingTemplate="ExplodingBarrel"
 			id="ExplodingBarrel">
 			<Position
-				x="2530"
-				y="3490"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="2530"
-				y="3490"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="2530"
-				y="3490"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
 				x="2660"
 				y="3940"
 				z="0"/>
@@ -14172,45 +13318,6 @@
 			ThingTemplate="ExplodingBarrel"
 			id="ExplodingBarrel">
 			<Position
-				x="6530"
-				y="3800"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="6530"
-				y="3800"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="6530"
-				y="3800"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
 				x="5480"
 				y="3960"
 				z="0"/>
@@ -14250,84 +13357,6 @@
 			ThingTemplate="ExplodingBarrel"
 			id="ExplodingBarrel">
 			<Position
-				x="3440"
-				y="3370"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="3440"
-				y="3370"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="3440"
-				y="3370"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="3400"
-				y="4140"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="3400"
-				y="4140"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="3400"
-				y="4140"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
 				x="3830"
 				y="4250"
 				z="0"/>
@@ -14356,201 +13385,6 @@
 			<Position
 				x="3830"
 				y="4250"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="4160"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="4160"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="4160"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="4160"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="ExplodingBarrel"
-			id="ExplodingBarrel">
-			<Position
-				x="4160"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPylon01"
-			id="DCPPYLON01">
-			<Position
-				x="3951.55"
-				y="3915.12"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPylon01"
-			id="DCPPYLON01">
-			<Position
-				x="3951.21"
-				y="3860.02"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPylon01"
-			id="DCPPYLON01">
-			<Position
-				x="3969.62"
-				y="4021.93"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPylon01"
-			id="DCPPYLON01">
-			<Position
-				x="3950.6"
-				y="4112.73"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPylon01"
-			id="DCPPYLON01">
-			<Position
-				x="3950.43"
-				y="4059.01"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPylon01"
-			id="DCPPYLON01">
-			<Position
-				x="3970"
-				y="3950"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPlanter01"
-			id="DCPPLANTER01">
-			<Position
-				x="3970"
-				y="3840"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPlanter01"
-			id="DCPPLANTER01">
-			<Position
-				x="3970"
-				y="3870"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPPlanter01"
-			id="DCPPLANTER01">
-			<Position
-				x="3970"
-				y="3900"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPFork01"
-			id="DCPFORK01">
-			<Position
-				x="6372.93"
-				y="3316.1"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -14616,32 +13450,6 @@
 			<Position
 				x="3589.91"
 				y="3264.24"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.64188"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPFork01"
-			id="DCPFORK01">
-			<Position
-				x="3880.2"
-				y="4075.59"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5175"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPFork01"
-			id="DCPFORK01">
-			<Position
-				x="4160.13"
-				y="3380.86"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -14941,201 +13749,6 @@
 			<Position
 				x="2825.24"
 				y="827.45"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="BRPCrate01"
-			id="BRPCRATE01">
-			<Position
-				x="4170.97"
-				y="3484.18"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="BRPCrate01"
-			id="BRPCRATE01">
-			<Position
-				x="4162.11"
-				y="3474.15"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="2.50748"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="BRPCrate01"
-			id="BRPCRATE01">
-			<Position
-				x="4171.06"
-				y="3468.18"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="2.14316"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="BRPCrate02"
-			id="BRPCRATE02">
-			<Position
-				x="4163.13"
-				y="3662.56"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.11444"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="ASPcrate03"
-			id="ASPCRATE03">
-			<Position
-				x="4161.2"
-				y="3638.62"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0.243106"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPAuto06"
-			id="DCPAUTO06">
-			<Position
-				x="4075.63"
-				y="3939.68"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPAuto08"
-			id="DCPAUTO08">
-			<Position
-				x="4010.03"
-				y="4125.17"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPAuto05"
-			id="DCPAUTO05">
-			<Position
-				x="4090.16"
-				y="4066.14"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPAuto05"
-			id="DCPAUTO05">
-			<Position
-				x="6377.43"
-				y="3981.55"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPAuto02"
-			id="DCPAUTO02">
-			<Position
-				x="6377.1"
-				y="3946.88"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPAuto01"
-			id="DCPAuto01">
-			<Position
-				x="6374.71"
-				y="3490.04"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="6449.79"
-				y="3437.7"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="6557.54"
-				y="3246.14"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="6566.12"
-				y="3247.43"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="6560.61"
-				y="3235.82"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -22146,110 +20759,6 @@
 				z="0"/>
 		</Prop>
 		<Prop
-			Angle="1.41"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat02"
-			id="PMISCEGYCRAT02">
-			<Position
-				x="3469.23"
-				y="3641.84"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3322.84"
-				y="3451.13"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3330.75"
-				y="3453.37"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3808.59"
-				y="3441.83"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3801.56"
-				y="3447.28"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3838.87"
-				y="3825.39"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3826.27"
-				y="3826.94"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0.157428"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3828.42"
-				y="3832.83"
-				z="0"/>
-		</Prop>
-		<Prop
 			Angle="0"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -23519,32 +22028,6 @@
 			ThingTemplate="PMiscEgyBarr01"
 			id="PMISCEGYBARR01">
 			<Position
-				x="2400.08"
-				y="3877.29"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.05889"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="2396.04"
-				y="3871.71"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
 				x="2653.86"
 				y="4013.15"
 				z="0"/>
@@ -23633,284 +22116,11 @@
 			Faction="PlyrCivilian/teamPlyrCivilian"
 			Health="100"
 			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="2273.25"
-				y="3627.79"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="2283.71"
-				y="3621.78"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0.882957"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="2273.61"
-				y="3611.44"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="2513.16"
-				y="3956.43"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat02"
-			id="PMISCEGYCRAT02">
-			<Position
-				x="2528.87"
-				y="3943.86"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0.733"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat02"
-			id="PMISCEGYCRAT02">
-			<Position
-				x="2517.03"
-				y="3930.34"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.82198"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp07"
-			id="PMISCEGYSUPP07">
-			<Position
-				x="3368.71"
-				y="3677.86"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp03"
-			id="PMISCEGYSUPP03">
-			<Position
-				x="3335.04"
-				y="3432.11"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp03"
-			id="PMISCEGYSUPP03">
-			<Position
-				x="3333.8"
-				y="3425.12"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp02"
-			id="PMISCEGYSUPP02">
-			<Position
-				x="3341.94"
-				y="3553.69"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-0.0395805"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp02"
-			id="PMISCEGYSUPP02">
-			<Position
-				x="3327.66"
-				y="3557.78"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat02"
-			id="PMISCEGYCRAT02">
-			<Position
-				x="3313.31"
-				y="4125.35"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.00831"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="3297.48"
-				y="4136.11"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.87139"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="3311.48"
-				y="4144.39"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="3640.74"
-				y="3830.63"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="3995.57"
-				y="3370.14"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0.898713"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat02"
-			id="PMISCEGYCRAT02">
-			<Position
-				x="3979.27"
-				y="3379.9"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-2.3778"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat02"
-			id="PMISCEGYCRAT02">
-			<Position
-				x="3997.25"
-				y="3390.76"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
 			ThingTemplate="PMiscEgyBarr02"
 			id="PMISCEGYBARR02">
 			<Position
 				x="3980.16"
 				y="3229.96"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr02"
-			id="PMISCEGYBARR02">
-			<Position
-				x="4056.27"
-				y="3336.32"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="4024.65"
-				y="3335.66"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-0.381409"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="4019.82"
-				y="3341.53"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -23924,84 +22134,6 @@
 			<Position
 				x="3356.87"
 				y="4240.28"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3627.65"
-				y="3840.16"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="2.53699"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3623"
-				y="3827.79"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.0561"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="3617.03"
-				y="3840.81"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.94862"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMEgySupplies11"
-			id="PMEGYSUPPLIES11">
-			<Position
-				x="3829.56"
-				y="3458.38"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp02"
-			id="PMISCEGYSUPP02">
-			<Position
-				x="3788.82"
-				y="3566.79"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp02"
-			id="PMISCEGYSUPP02">
-			<Position
-				x="3806.06"
-				y="3564.08"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -24041,32 +22173,6 @@
 			<Position
 				x="3790.28"
 				y="3215.63"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp05"
-			id="PMISCEGYSUPP05">
-			<Position
-				x="3847.86"
-				y="3393.21"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgySupp05"
-			id="PMISCEGYSUPP05">
-			<Position
-				x="3847.77"
-				y="3365.14"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -24686,32 +22792,6 @@
 			Faction="PlyrCivilian/teamPlyrCivilian"
 			Health="100"
 			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyDump01"
-			id="PMISCEGYDUMP01">
-			<Position
-				x="6537.28"
-				y="3759.59"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.89725"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyCrat01"
-			id="PMISCEGYCRAT01">
-			<Position
-				x="6560"
-				y="3897.84"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
 			ThingTemplate="PMiscEgyCrat01"
 			id="PMISCEGYCRAT01">
 			<Position
@@ -24730,19 +22810,6 @@
 			<Position
 				x="6171.93"
 				y="4180.26"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.43634"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="PMiscEgyBarr01"
-			id="PMISCEGYBARR01">
-			<Position
-				x="6560.54"
-				y="3909.54"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -48913,188 +46980,6 @@
 				z="0"/>
 		</Prop>
 		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="3660"
-				y="3380"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="3660"
-				y="3500"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="3660"
-				y="3620"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="3460"
-				y="3620"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="3460"
-				y="3500"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="3460"
-				y="3380"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="2580"
-				y="3860"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="2460"
-				y="3860"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="2340"
-				y="3860"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="2220"
-				y="3860"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="2580"
-				y="3640"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="2460"
-				y="3640"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="2340"
-				y="3640"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPStrSign03"
-			id="DCPSTRSIGN03">
-			<Position
-				x="2220"
-				y="3640"
-				z="0"/>
-		</Prop>
-		<Prop
 			Angle="-2.27723"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -59066,214 +56951,6 @@
 				z="0"/>
 		</Prop>
 		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6410"
-				y="4110"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6410"
-				y="4110"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6570"
-				y="4110"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6570"
-				y="4110"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6410"
-				y="3780"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6410"
-				y="3780"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6570"
-				y="3780"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6570"
-				y="3780"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6410"
-				y="3430"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6410"
-				y="3430"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6570"
-				y="3430"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6570"
-				y="3430"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6410"
-				y="3100"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6410"
-				y="3100"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6570"
-				y="3100"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="6570"
-				y="3100"
-				z="0"/>
-		</Prop>
-		<Prop
 			Angle="-1.5708"
 			EventList=""
 			Faction="PlyrNeutral/teamPlyrNeutral"
@@ -61315,786 +58992,6 @@
 				z="0"/>
 		</Prop>
 		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3990"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3990"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3630"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3630"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3620"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3620"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4170"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4170"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3970"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3970"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4070"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4070"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4170"
-				y="3940"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3970"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3970"
-				y="3940"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4170"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4170"
-				y="3510"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4170"
-				y="3510"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3970"
-				y="3510"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3970"
-				y="3510"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="4160"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="3810"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4170"
-				y="3690"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3970"
-				y="3690"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3970"
-				y="3330"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="4170"
-				y="3330"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="3690"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3630"
-				y="3690"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3630"
-				y="3330"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="3330"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3630"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3630"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3630"
-				y="3440"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3630"
-				y="3440"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="3440"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3840"
-				y="3440"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="3690"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3690"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3330"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="3330"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3440"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3290"
-				y="3440"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="3560"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="3440"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="-1.5708"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="3490"
-				y="3440"
-				z="0"/>
-		</Prop>
-		<Prop
 			Angle="3.14159"
 			EventList=""
 			Faction="PlyrNeutral/teamPlyrNeutral"
@@ -62170,162 +59067,6 @@
 			<Position
 				x="2530"
 				y="4050"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2280"
-				y="3840"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2280"
-				y="3840"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2400"
-				y="3840"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2400"
-				y="3840"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2520"
-				y="3840"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2520"
-				y="3840"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2280"
-				y="3460"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2280"
-				y="3460"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2400"
-				y="3460"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2400"
-				y="3460"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2520"
-				y="3460"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2520"
-				y="3460"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -62807,110 +59548,6 @@
 			<Position
 				x="2679.78"
 				y="4112.18"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.5708"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPTarmac04"
-			id="DCPTARMAC04">
-			<Position
-				x="4160"
-				y="4030"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="DCPTarmac04"
-			id="DCPTARMAC04">
-			<Position
-				x="3970"
-				y="3970"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2280"
-				y="3660"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2280"
-				y="3660"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2400"
-				y="3660"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2400"
-				y="3660"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="3.14159"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2520"
-				y="3660"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="0"
-			EventList=""
-			Faction="PlyrNeutral/teamPlyrNeutral"
-			Health="100"
-			Team="PlyrNeutral"
-			ThingTemplate="DCPStrLi06"
-			id="DCPSTRLI06">
-			<Position
-				x="2520"
-				y="3660"
 				z="0"/>
 		</Prop>
 		<Prop
@@ -63624,14 +60261,6 @@
 			<Position
 				x="6584.99"
 				y="4303.89"
-				z="0"/>
-		</Audio>
-		<Audio
-			ThingTemplate="Amb_Dog1Barks"
-			id="Amb_Dog1Barks">
-			<Position
-				x="4072.52"
-				y="3588.48"
 				z="0"/>
 		</Audio>
 		<Audio
@@ -64530,8 +61159,6 @@
 			id="WashingtonRoadMarking08"/>
 		<Road
 			id="WashingtonRoadMarking10"/>
-		<Road
-			id="WashingtonRoadMarking11"/>
 		<MapMetaData
 			BorderSize="20"
 			CRC="0"
@@ -64822,7 +61449,39 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Skirmish">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="SkirmishNull">
@@ -64882,18 +61541,146 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Player_1">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_2">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_3">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_4">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 </AssetDeclaration>
