@@ -1,0 +1,63 @@
+MapObjetives1
+"Destroy the enemy GDI Administration Building to win the match."
+End
+
+MapObjetives2
+"Send any unit to the flags to insta-capture the nearby GDI structures."
+End
+
+MapObjetives3
+"Tier 2 units will be unlocked in 2 minutes. Tier 3 in 6 minutes. Tier 4 in 10 minutes."
+End
+
+MapObjetives4
+"Support powers will be unlocked every 50 seconds."
+End
+
+tTier2
+"Tier 2 units unlock in:"
+End
+
+tTier3
+"Tier 3 units unlock in:"
+End
+
+tTier4
+"Tier 4 units unlock in:"
+End
+
+tier2Unlock
+"Tier 2 units unlocked (Grenadier, Sniper, Rig, Sonic Tank, Slingshot)"
+End
+
+tier3Unlock
+"Tier 3 units unlocked (Zone Raider, Behemoth, Mammoth. No commando units)"
+End
+
+tier4Unlock
+"Tier 4 units unlocked (MARV)"
+End
+
+ZAtimer
+"Zocom Airborne unlock in:"
+End
+
+STtimer
+"Sharpshooter Team unlock in:"
+End
+
+RAtimer
+"Railgun Accelerator unlock in:"
+End
+
+ZRDPtimer
+"Zone Raiders Drop Pod unlock in:"
+End
+
+SAtimer
+"Shockwave Artillery unlock in:"
+End
+
+OStimer
+"Orbital Strike unlock in:"
+End

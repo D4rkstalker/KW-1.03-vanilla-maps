@@ -1,7 +1,0 @@
-Intro
-"This is a gauntlet mission. You must fight your way through to the checkpoint. However, you have 15 minutes to get there or else the mission fails."
-END
-
-timer text
-"Time expires in: "
-END

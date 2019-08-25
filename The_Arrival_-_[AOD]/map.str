@@ -1,0 +1,165 @@
+MapIntro:01
+"Under Heavy Attack! Defend The Field Generator!"
+End
+
+MapIntro:02
+"Made by Euphoria"
+End
+
+MapIntro:03
+"csc-online@alice.de"
+End
+
+Wave1Inf
+"Wave 1/11 Infantry (Elite)"
+End
+
+Wave2Inf
+"Wave 2/11 Infantry (Heroic)"
+End
+
+Wave3Veh
+"Wave 3/11 Light Vehicles (Elite)"
+End
+
+Wave4Veh
+"Wave 4/11 Light Vehicles (Heroic)"
+End
+
+Wave5Veh
+"Wave 5/11 Heavy Vehicles (Elite)"
+End
+
+Wave6Veh
+"Wave 6/11 Heavy Vehicles (Heroic)"
+End
+
+Wave7Air
+"Wave 7/11 NOD Aircraft (Elite)"
+End
+
+Wave8Air
+"Wave 8/11 NOD Aircraft (Heroic)"
+End
+
+Wave9Air
+"Wave 9/11 Scrin Aircraft (Elite)"
+End
+
+Wave10Air
+"Wave 10/11 Scrin Aircraft +Boss (Heroic)"
+End
+
+Wave11Boss
+"Final Boss"
+End
+
+AirBoss1Life
+"Red Devastator Lives:"
+End
+
+AirBoss2Life
+"Green Assault Carrier Lives:"
+End
+
+AirBoss3Life
+"Blue Devastator Lives:"
+End
+
+DefMe
+"Field Generator Lives:"
+End
+
+InfWave
+"Elite Infantry Arrive In:"
+End
+
+InfWave2
+"Heroic Infantry Arrive In:"
+End
+
+LightVehWave
+"Elite Light Vehicles Arrive In:"
+End
+
+LightVehWave2
+"Heroic Light Vehicles Arrive In:"
+End
+
+HeavyVehWave
+"Elite Heavy Vehicles Arrive In:"
+End
+
+HeavyVehWave2
+"Heroic Heavy Vehicles Arrive In:"
+End
+
+AirWave
+"Elite NOD Aircraft Arrive In:"
+End
+
+AirWave2
+"Heroic NOD Aircraft Arrive In:"
+End
+
+Air2Wave
+"Elite Scrin Aircraft Arrive In:"
+End
+
+Air2Wave2
+"Heroic Scrin Aircraft +Boss Arrive In:"
+End
+
+FinalWave
+"Mothership Boss In:"
+End
+
+Boss
+"Mothership Lives:"
+End
+
+ShitFan
+"Shit Hits Fan In:"
+End
+
+BonusCount
+"Lives Added To Field Generator:"
+End
+
+BonusCounta
+"-= 2 Lives Added To Field Generator =-"
+End
+
+BonusCount2
+"Lives Taken OFF Field Generator:"
+End
+
+BonusCountb
+"!!! 2 Lives Removed From Field Generator !!!"
+End
+
+InfSquad2
+"2nd Wave In:"
+End
+
+InfSquad3
+"3rd Wave In:"
+End
+
+MissComp
+"Congratulations, Comrade!"
+End
+
+Fools
+"Where have you learned to Play? You Suck!"
+End
+
+TSIonStorm:End
+"Reinforcement will end in:"
+END
+TSIonStorm:Arrive
+"Reinforcement will arrive in:"
+END
+
+
+

@@ -1,0 +1,64 @@
+MapObjetives1
+"Destroy the enemy Terraforming Nexus to win the match."
+End
+
+MapObjetives2
+"Send any unit to the flags to insta-capture the nearby Scrin structures."
+End
+
+MapObjetives3
+"Tier 2 units will be unlocked in 2 minutes. Tier 3 in 6 minutes. Tier 4 in 10 minutes."
+End
+
+MapObjetives4
+"Support powers will be unlocked every 50 seconds."
+End
+
+tTier2
+"Tier 2 units unlock in:"
+End
+
+tTier3
+"Tier 3 units unlock in:"
+End
+
+tTier4
+"Tier 4 units unlock in:"
+End
+
+tier2Unlock
+"Tier 2 units unlocked (Shock Troppers, Devourer Tanks, Corrupters)"
+End
+
+tier3Unlock
+"Tier 3 units unlocked (Ravagers, Tripods, Mechapedes. Cultist on Tier 4. No Prodigy.)"
+End
+
+tier4Unlock
+"Tier 4 units unlocked (Erradicator Hexapod, Cultists)"
+End
+
+ZAtimer
+"Reconstruction Drones unlock in:"
+End
+
+STtimer
+"Lightning Spike unlock in:"
+End
+
+RAtimer
+"The Swarm unlock in:"
+End
+
+ZRDPtimer
+"Phase Field unlock in:"
+End
+
+SAtimer
+"Temporal Wormhole unlock in:"
+End
+
+OStimer
+"Wormhole unlock in:"
+End
+

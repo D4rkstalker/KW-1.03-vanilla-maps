@@ -1,0 +1,64 @@
+MapObjetives1
+"Destroy the enemy NOD Stronghold to win the match."
+End
+
+MapObjetives2
+"Send any unit to the flags to insta-capture the nearby NOD structures."
+End
+
+MapObjetives3
+"Tier 2 units will be unlocked in 2 minutes. Tier 3 in 6 minutes. Tier 4 in 10 minutes."
+End
+
+MapObjetives4
+"Support powers will be unlocked every 50 seconds."
+End
+
+tTier2
+"Tier 2 units unlock in:"
+End
+
+tTier3
+"Tier 3 units unlock in:"
+End
+
+tTier4
+"Tier 4 units unlock in:"
+End
+
+tier2Unlock
+"Tier 2 units unlocked (Fanatics, Tiberium Troopers, Flame Tanks, Recokoners, Beam Cannons, Mantis)"
+End
+
+tier3Unlock
+"Tier 3 units unlocked (Enlighteneds, Specters, Stealth Tanks, Avatar/Purifiers. No Commando nor Shadow Team units)"
+End
+
+tier4Unlock
+"Tier 4 units unlocked (Redeemer)"
+End
+
+ZAtimer
+"Radar Jamming unlock in:"
+End
+
+STtimer
+"Decoy Army unlock in:"
+End
+
+RAtimer
+"Cloaking Field unlock in:"
+End
+
+ZRDPtimer
+"Tiberium Vapor Bomb unlock in:"
+End
+
+SAtimer
+"NO USED 5th unlock in:"
+End 
+
+OStimer
+"NO USED 6th unlock in:"
+End
+

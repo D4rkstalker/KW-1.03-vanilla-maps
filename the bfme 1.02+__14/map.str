@@ -1,0 +1,7 @@
+SCRIPT:Subwaytimer
+"Subway available in:"
+End
+
+SCRIPT:SubwayTimer2
+"Subway use expires in:"
+End
