@@ -159,7 +159,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="Brimstone_Flower">
+		id="Brimstone_Flower_1.02_RTS">
 		<Waypoint
 			id="Player_6_Start">
 			<Position
@@ -540,6 +540,19 @@
 				y="4247.93"
 				z="0"/>
 		</Structure>
+		<Unit
+			Angle="0"
+			EventList=""
+			Faction="SkirmishNod/teamSkirmishNod"
+			Health="25"
+			Team="SkirmishNod"
+			ThingTemplate="NODAttackBike"
+			id="NODAttackBike">
+			<Position
+				x="2340"
+				y="2520"
+				z="0"/>
+		</Unit>
 		<Unit
 			Angle="1.48268"
 			EventList=""
@@ -25667,7 +25680,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="Brimstone_Flower">
+		id="Brimstone_Flower_1.02_RTS">
 		<Tile
 			BaseTexture="ART:Terrain/TDirt_RedZone09.tga"
 			NormalTexture="ART:Terrain/TDirt_RedZone09_nrm.tga"
@@ -25778,7 +25791,39 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Skirmish">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1">
+				<Action
+					Type="MAP_REVEAL_ALL_PERM">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="SkirmishNull">
@@ -25814,19 +25859,131 @@
 	</GameScriptList>
 	<GameScriptList
 		id="Player_1">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_2">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_3">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="Player_4">
-		<ScriptSet/>
+		<ScriptSet>
+			<Script
+				id="Script 1__1">
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="GIVE_PLAYER_UPGRADE">
+					<ParameterList/>
+				</Action>
+			</Script>
+		</ScriptSet>
 	</GameScriptList>
 	<GameScriptList
 		id="SkirmishSteelTalons">
